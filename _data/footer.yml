@@ -1,6 +1,8 @@
 - links:
-  - name: Pricing
-    link: /pricing/
+  - name: Home
+    link: /
+  - name: Plans
+    link: /plans/
   - name: Blog
     link: /blog/
   - name: About
@@ -11,15 +13,12 @@
   - name: Login
     link: /
     new_window: true
-  - name: Sign Up
-    link: /
-    new_window: true
-  - name: Docs
-    link: /
-    new_window: true
-  - name: Status
-    link: /
-    new_window: true
+  - name: Privacy
+    link: /privacy/
+    new_window: false
+  - name: Terms
+    link: /terms/
+    new_window: false
 - links:
   - name: Facebook
     link: https://facebook.com/cloudcannon/
