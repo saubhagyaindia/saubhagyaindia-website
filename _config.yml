@@ -2,7 +2,7 @@
 # Site
 
 title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+url: "https://www.saubhagyaindia.com"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -91,14 +91,8 @@ exclude:
 
 social_icons:
   - Facebook
-  - Google Plus
   - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
   - Twitter
-  - YouTube
-  - RSS
 
 _comments:
   map: Update the map location and display settings.
