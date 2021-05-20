@@ -26,8 +26,9 @@ social:
 timezone: Etc/UTC
 
 collections:
-  staff_members:
-    _hide_content: true
+  plans:
+    output: true
+    permalink: '/plans/:path/'
 
 paginate: 10
 paginate_path: "/blog/:num/"
